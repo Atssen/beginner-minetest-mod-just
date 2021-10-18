@@ -1,0 +1,5 @@
+minetest.register.node(first1:mod, {
+description = "yaay",
+tiles = default_diamond_block.png,
+groups = (oddly_breakable_by_hand = 2),
+})
